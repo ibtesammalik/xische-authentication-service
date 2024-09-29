@@ -1,6 +1,7 @@
 ***bearer token*** 
 
 set param
+
 *username* : user
 
 *password* : password
@@ -9,7 +10,7 @@ set param
 
 
 ***set AuthType to basic Auth***
-there set 
+ 
 *username* : client
 
 *password* : secret
