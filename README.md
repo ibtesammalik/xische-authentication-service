@@ -2,13 +2,16 @@
 
 set param
 *username* : user
+
 *password* : password
+
 *grant_type* : custom_password
 
 
 ***set AuthType to basic Auth***
 there set 
 *username* : client
+
 *password* : secret
 
 to get token
